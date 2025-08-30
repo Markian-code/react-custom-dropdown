@@ -3,8 +3,8 @@
 Reusable, accessible dropdown component built from scratch (no UI libraries).
 As per the test brief — functionality over design, clean API, and a demo page to validate scenarios.
 
-> Live Demo: _add later (Vercel URL)_  
-> Repository: _add later (GitHub URL)_
+
+> Repository: https://github.com/Markian-code/react-custom-dropdown
 
 ---
 
