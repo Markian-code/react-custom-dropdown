@@ -1,0 +1,19 @@
+.page { padding: 40px; }
+.title { font-size: 14px; color: #1d4ed8; margin-bottom: 8px; }
+
+.card {
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  padding: 40px;
+  display: flex;
+  flex-wrap: wrap;      
+  gap: 24px;           
+  background: #f9fafb;
+  align-items: flex-start;
+}
+
+.col {
+  flex: 1 1 260px;      
+  min-width: 240px;     
+  max-width: 420px;    
+}
